@@ -91,6 +91,5 @@ print(ner_pipeline(text))
 
 GitHub Repository
 
-The fine-tuned model has been uploaded to GitHub. You can find it here: sourabhmatali/NER-Model-Fine-Tuned
-
+The fine-tuned model has been uploaded to GitHub. You can find it here: NER-Model-Fine-Tuned
 
